@@ -1,4 +1,4 @@
-[![Master Head](https://gteconlinelearning.com/wp-content/uploads/2020/05/python_banner.jpg)](https://github.com/Hussain1129)
+[![Master Head](https://learn.cognitioworld.com/wp-content/uploads/2020/12/Python-Ex-banner-02.jpg)](https://github.com/Hussain1129)
 
 <h1 align="center">Hi 👋, I'm Hussain Ali</h1>
 <h3 align="center">A passionate Python Django developer & Data Analyst from Pakistan</h3>
