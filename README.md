@@ -1,4 +1,4 @@
-[![Master Head](https://www.canva.com/design/DAFbfxsAkvQ/Dj6MhlddXIattIiSDPbXWQ/edit?utm_content=DAFbfxsAkvQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://github.com/Hussain1129)
+[![Master Head](https://www.canva.com/design/DAFbfxsAkvQ/view)](https://github.com/Hussain1129)
 
 <h1 align="center">Hi 👋, I'm Hussain Ali</h1>
 <h3 align="center">A passionate Python Django developer & Data Analyst from Pakistan</h3>
