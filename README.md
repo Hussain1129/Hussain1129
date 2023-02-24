@@ -1,4 +1,4 @@
-[![Master Head](https://learn.cognitioworld.com/wp-content/uploads/2020/12/Python-Ex-banner-02.jpg)](https://github.com/Hussain1129)
+[![Master Head]([https://learn.cognitioworld.com/wp-content/uploads/2020/12/Python-Ex-banner-02.jpg](https://www.canva.com/design/DAFbfxsAkvQ/J-8yvSm63Y_TRw4vk91xpw/view?utm_content=DAFbfxsAkvQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu))](https://github.com/Hussain1129)
 
 <h1 align="center">Hi 👋, I'm Hussain Ali</h1>
 <h3 align="center">A passionate Python Django developer & Data Analyst from Pakistan</h3>
