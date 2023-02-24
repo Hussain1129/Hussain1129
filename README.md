@@ -1,4 +1,4 @@
-[![Master Head](https://www.google.com/url?sa=i&url=http%3A%2F%2Feventsmhssp.in%2Ffdp3%2F&psig=AOvVaw0iDZQY-pOdvOI595W69pd1&ust=1677341070411000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLj_z8fErv0CFQAAAAAdAAAAABAE)](https://github.com/Hussain1129)
+[![Master Head](http://www.eventsmhssp.in/wp-content/uploads/2021/04/Python-banner.png)](https://github.com/Hussain1129)
 
 <h1 align="center">Hi 👋, I'm Hussain Ali</h1>
 <h3 align="center">A passionate Python Django developer & Data Analyst from Pakistan</h3>
