@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/hussainali1129" target="blank"><img src="https://img.shields.io/twitter/follow/hussainali1129?logo=twitter&style=for-the-badge" alt="hussainali1129" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Data visualization, Data structure and Algorithm**
+- 🌱 I’m currently learning **Django, Data visualization, Data structure, and Algorithm**
 
-- 💬 Ask me about **Python, Django, Django Rest Framework, FastAPI, Flask, MySQL, Data Structure Algorithem, Git, Docker, javascrip**
+- 💬 Ask me about **Python, Django, Django Rest Framework, FastAPI, Flask, MySQL, Data Structure Algorithm, Git, Docker, javascript**
 
 - 📫 How to reach me **hussainali54711@gmail.com , ai21c119hussain@gmail.com, hussain.ali@synar.es**
 
