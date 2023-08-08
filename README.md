@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Django, Data visualization, Data structure and Algorithm**
 
-- 💬 Ask me about **Python, Django, Numpy, pandas, SQL, Data Structure, Git, Docker, javascript**
+- 💬 Ask me about **Python, Django, Django Rest Framework, FastAPI, Flask, MySQL, Data Structure Algorithem, Git, Docker, javascrip**
 
-- 📫 How to reach me **hussainali54711@gmail.com , ai21c119hussain@gmail.com**
+- 📫 How to reach me **hussainali54711@gmail.com , ai21c119hussain@gmail.com, hussain.ali@synar.es**
 
 - ⚡ Fun fact **Good sense of Humor**
 
