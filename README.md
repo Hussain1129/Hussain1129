@@ -1,4 +1,4 @@
-[![Master Head]([http://www.eventsmhssp.in/wp-content/uploads/2021/04/Python-banner.png](https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/django-banner-1.png))](https://github.com/Hussain1129)
+[![Django Banner](https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/django-banner-1.png)](https://github.com/Hussain1129)
 
 <h1 align="center">Hi 👋, I'm Hussain Ali</h1>
 <h3 align="center">A passionate Python Django developer & Data Analyst from Pakistan</h3>
